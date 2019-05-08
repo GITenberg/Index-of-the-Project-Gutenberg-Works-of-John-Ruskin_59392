@@ -1,0 +1,29 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-John-Ruskin_59392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of John Ruskin
+url: http://www.gutenberg.org/ebooks/59392
